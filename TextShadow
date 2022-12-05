@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Text-shadow</title>
+ <style>
+   h1 {text-shadow:12px 8px 5px orange}
+   h2 {text-shadow:12px 8px 5px gray}
+ </style> 
+</head>
+
+<body>
+   <h1>Hi world~ </h1>
+   <h2>Hi world~ </h2>
+  
+  <script src="script.js"></script>
+</body>
+
+</html>
